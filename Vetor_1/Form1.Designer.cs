@@ -59,7 +59,7 @@
             this.Controls.Add(this.btnVetor);
             this.Controls.Add(this.lstVetor);
             this.Name = "Form1";
-            this.Text = "Form1";
+            this.Text = "Vetor";
             this.ResumeLayout(false);
 
         }
